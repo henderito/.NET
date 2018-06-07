@@ -1,0 +1,2 @@
+C:\Users\gonzalo\Desktop\.NET Repos\TP2_Henderson\TP2_Henderson\obj\Debug\TP2_Henderson.csprojResolveAssemblyReference.cache
+C:\Users\gonzalo\Desktop\.NET Repos\TP2_Henderson\TP2_Henderson\obj\Debug\TP2_Henderson.csproj.CoreCompileInputs.cache
