@@ -1,0 +1,10 @@
+C:\Users\gonzalo\Desktop\TP1_Henderson\TP1_Henderson_S\TP1_Henderson\bin\Debug\TP1_Henderson.exe.config
+C:\Users\gonzalo\Desktop\TP1_Henderson\TP1_Henderson_S\TP1_Henderson\bin\Debug\TP1_Henderson.exe
+C:\Users\gonzalo\Desktop\TP1_Henderson\TP1_Henderson_S\TP1_Henderson\bin\Debug\TP1_Henderson.pdb
+C:\Users\gonzalo\Desktop\TP1_Henderson\TP1_Henderson_S\TP1_Henderson\obj\Debug\TP1_Henderson.Form1.resources
+C:\Users\gonzalo\Desktop\TP1_Henderson\TP1_Henderson_S\TP1_Henderson\obj\Debug\TP1_Henderson.Properties.Resources.resources
+C:\Users\gonzalo\Desktop\TP1_Henderson\TP1_Henderson_S\TP1_Henderson\obj\Debug\TP1_Henderson.csproj.GenerateResource.cache
+C:\Users\gonzalo\Desktop\TP1_Henderson\TP1_Henderson_S\TP1_Henderson\obj\Debug\TP1_Henderson.csproj.CoreCompileInputs.cache
+C:\Users\gonzalo\Desktop\TP1_Henderson\TP1_Henderson_S\TP1_Henderson\obj\Debug\TP1_Henderson.exe
+C:\Users\gonzalo\Desktop\TP1_Henderson\TP1_Henderson_S\TP1_Henderson\obj\Debug\TP1_Henderson.pdb
+C:\Users\gonzalo\Desktop\TP1_Henderson\TP1_Henderson_S\TP1_Henderson\obj\Debug\TP1_Henderson.csprojResolveAssemblyReference.cache
